@@ -1,0 +1,23 @@
+_repo: Dissertatio-medica-inauguralis-de-ictero_52593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macoubrey, William
+    alias: Macoubrey, Gulielmus
+    gutenberg_agent_id: '46930'
+    url: http://www.gutenberg.org/2009/agents/46930
+description: ''
+gutenberg_issued: '2016-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52593'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jaundice'
+- !lcc 'RC'
+- GITenberg
+title: Dissertatio medica inauguralis de ictero
+url: http://www.gutenberg.org/ebooks/52593
